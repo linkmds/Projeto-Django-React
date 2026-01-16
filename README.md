@@ -18,7 +18,7 @@ Certifique-se de ter o Python instalado.
 3. Ative o venv:
    - Windows: `.\venv\Scripts\activate`
    - Linux/Mac: `source venv/bin/activate`
-4. Instale as dependências: `pip install django djangorestframework django-cors-headers djangorestframework-simplejwt`
+4. Instale as dependências: `pip -r requirements.txt`
 5. Rode as migrações: `python manage.py migrate`
 6. Inicie o servidor: `python manage.py runserver`
 
