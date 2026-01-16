@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+
+# React / Node
+node_modules/
+dist/
+.env
+
+# Outros
+.DS_Store
